@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "YouTube Shorts Blocker",
     "version": "1.2.1",
     "description": "A brutally minimal browser extension that hides YouTube Shorts everywhere.",
